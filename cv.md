@@ -1,13 +1,14 @@
-# Evgeny Kurnosinkov
+![Evgeny](/images/photo.png) # Evgeny Kurnosinkov
 
 ## Contacts
 
-**Phone.:** +7 (921) 865-84-72
+**Phone:** +7 (921) 865-84-72
+
+**Email:** 8658472@gmail.com
 
 **Telegram:** @kurnosinkov
 
 **Instagram:** @kurnosinkov
 
-**Email:** 8658472@gmail.com
+## About Me
 
-## Brief
