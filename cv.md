@@ -8,6 +8,8 @@
 
 **Telegram:** @kurnosinkov
 
+**Discord:** EKurnosinkov (@Kurnosinkov)
+
 **Instagram:** @kurnosinkov
 
 ## About Me
