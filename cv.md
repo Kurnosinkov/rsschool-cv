@@ -22,15 +22,22 @@ I held such positions as a Client Manager, Project Manager, Product Manager, Bus
 
 ## Hard Skills
 
+- Business Competencies
+- Prioritization
+- Research and Analysis
+- Problem-solving
 - Process Management
 - Project Initiation, Planning & Control
-- Task Management
+- Task Management Jira/Trello/YouTrack
 - Scheduling
 - Figma
-- Jira/Trello/YouTrack
 - HTML/CSS/JS/Vue/React (basics)
-- CMS
+- Django CMS
 - FTP Clients
 - GitHub
 
 ## Soft Skills
+
+- Communication
+- Time Management
+- Organization
