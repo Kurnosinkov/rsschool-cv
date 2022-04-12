@@ -18,4 +18,4 @@ My strengths are executive, purposefulness and passion for what I do.
 
 I held such positions as Client Manager, Project Manager, Product Manager, Business Analyst and Chief Operating Officer. So I have a good understanding of business workflows.
 
-:musical_keyboard: I love to play piano and chess
+:musical_note: I love to play piano and chess :chess_pawn:
