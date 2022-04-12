@@ -16,6 +16,21 @@ My goal is developing companies which provide useful products to the World. I va
 
 My strengths are executive, purposefulness and passion for what I do.
 
-I held such positions as Client Manager, Project Manager, Product Manager, Business Analyst and Chief Operating Officer. So I have a good understanding of business workflows.
+I held such positions as a Client Manager, Project Manager, Product Manager, Business Analyst and Chief Operating Officer. I worked in FinTech, EdTech, Digital companies and web agencies. So I have a good understanding of business workflows.
 
 :musical_note: I love to play piano and chess :chess_pawn:
+
+## Hard Skills
+
+- Process Management
+- Project Initiation, Planning & Control
+- Task Management
+- Scheduling
+- Figma
+- Jira/Trello/YouTrack
+- HTML/CSS/JS/Vue/React (basics)
+- CMS
+- FTP Clients
+- GitHub
+
+## Soft Skills
