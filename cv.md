@@ -1,4 +1,4 @@
-![Evgeny](/images/photo.png) # Evgeny Kurnosinkov
+# Evgeny Kurnosinkov
 
 ## Contacts
 
