@@ -26,6 +26,7 @@ I held such positions as a Client Manager, Project Manager, Product Manager, Bus
 - Prioritization
 - Research and Analysis
 - Problem-solving
+- Agile: Kanban and Scrum
 - Process Management
 - Project Initiation, Planning & Control
 - Task Management Jira/Trello/YouTrack
@@ -34,10 +35,16 @@ I held such positions as a Client Manager, Project Manager, Product Manager, Bus
 - HTML/CSS/JS/Vue/React (basics)
 - Django CMS
 - FTP Clients
-- GitHub
+- VCS GitHub
 
 ## Soft Skills
 
 - Communication
 - Time Management
 - Organization
+
+## Code Example
+
+`function multiply(a, b){
+  return a * b
+}`
