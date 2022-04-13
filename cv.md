@@ -33,7 +33,7 @@ I held such positions as a Client Manager, Project Manager, Product Manager, Bus
 - Project Initiation, Planning & Control
 - Task Management Jira/Trello/YouTrack
 - Scheduling
-- Figma
+- Figma/Miro
 - HTML/CSS/JS/Vue/React (basics)
 - Django CMS
 - FTP Clients
