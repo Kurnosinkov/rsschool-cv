@@ -53,7 +53,7 @@ I held such positions as a Client Manager, Project Manager, Product Manager, Bus
 
 ## Portfolio
 
-### Rastibiznes
+### [Rastibiznes](https://rastibiznes.ru/)
 
 Role: Chief Operating Officer
 
