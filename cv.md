@@ -50,3 +50,12 @@ I held such positions as a Client Manager, Project Manager, Product Manager, Bus
 `function multiply(a, b){
   return a * b
 }`
+
+## Portfolio
+
+### Rastibiznes
+
+Role: Chief Operating Officer
+
+About: FinTech startup for small and medium business.
+
