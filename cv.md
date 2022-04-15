@@ -57,7 +57,7 @@ I held such positions as a Client Manager, Project Manager, Product Manager, Bus
 
 Role: Chief Operating Officer
 
-About: FinTech startup for small and medium business
+About: FinTech startup. Government support measures for small and medium business
 
 Responsibilities:
 - boost startup
@@ -79,3 +79,26 @@ Responsibilities:
 - interface
 - documentation
 - delivery
+
+### [Clicktex](http://clicktex.ru/)
+
+Role: Chief Operating Officer
+
+About: widgets for mobile traffic
+
+Responsibilities:
+- operational management
+- product owner
+- project manager
+- sales department control
+- hiring, employee adaption
+- financial control
+
+## Education
+
+Saint Petersburg Conservatory
+MFA Flute Performance, Teacher
+
+## Certifications
+
+- 
