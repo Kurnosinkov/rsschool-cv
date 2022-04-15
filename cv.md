@@ -97,6 +97,7 @@ Responsibilities:
 ## Education
 
 Saint Petersburg Conservatory
+
 MFA Flute Performance, Teacher
 
 ## Certifications
