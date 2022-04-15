@@ -1,4 +1,4 @@
-# Evgeny Kurnosinkov Test
+# Evgeny Kurnosinkov
 
 ## Contacts
 
