@@ -57,5 +57,25 @@ I held such positions as a Client Manager, Project Manager, Product Manager, Bus
 
 Role: Chief Operating Officer
 
-About: FinTech startup for small and medium business.
+About: FinTech startup for small and medium business
 
+Responsibilities:
+- boost startup
+- operational management
+- hiring, employee adaption
+- creating company products
+- launch of the web service
+- negotiations with clients
+- financial control
+
+### [Skolkovo StartUp Village](https://expo.startupvillage.ru/start/)
+
+Role: Project / Product Manager
+
+About: Skolkovo 3D Event
+
+Responsibilities:
+- ux architecture
+- interface
+- documentation
+- delivery
