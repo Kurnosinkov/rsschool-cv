@@ -2,15 +2,11 @@
 
 ## Contacts
 
-**Phone:** +7 (921) 865-84-72
-
-**Email:** 8658472@gmail.com
-
-**Telegram:** @kurnosinkov
-
-**Discord:** EKurnosinkov (@Kurnosinkov)
-
-**Instagram:** @kurnosinkov
+- **Phone:** +7 (921) 865-84-72<br>
+- **Email:** 8658472@gmail.com<br>
+- **Telegram:** @kurnosinkov<br>
+- **Discord:** EKurnosinkov (@Kurnosinkov)<br>
+- **Instagram:** @kurnosinkov
 
 ## About Me
 
@@ -20,7 +16,7 @@ My strengths are executive, purposefulness and passion for what I do.
 
 I held such positions as a Client Manager, Project Manager, Product Manager, Business Analyst and Chief Operating Officer. I worked in FinTech, EdTech, Digital companies and web agencies. So I have a good understanding of business workflows.
 
-:musical_note: I love to play piano and chess :chess_pawn:
+I love to play piano and chess
 
 ## Hard Skills
 
@@ -47,9 +43,9 @@ I held such positions as a Client Manager, Project Manager, Product Manager, Bus
 
 ## Code Example
 
-`function multiply(a, b){
+```function multiply(a, b){
   return a * b
-}`
+}```
 
 ## Portfolio
 
@@ -106,6 +102,7 @@ MFA Flute Performance, Teacher
 - Strategic Thinking by Russian Leaders
 - Communications by Russian Leaders
 
-## English
+## Languages
 
-Upper-Intermediate B2
+- **English:** Upper-Intermediate B2
+- **Russian:** Native
