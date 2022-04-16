@@ -43,19 +43,23 @@ I love to play piano and chess
 
 ## Code Example
 
-```function multiply(a, b){
+```
+function multiply(a, b){
   return a * b
-}```
+}
+```
 
 ## Portfolio
 
 ### [Rastibiznes](https://rastibiznes.ru/)
 
-Role: Chief Operating Officer
+**Role:**<br>
+Chief Operating Officer
 
-About: FinTech startup. Government support measures for small and medium business
+**About:**<br>
+FinTech startup. Government support measures for small and medium business
 
-Responsibilities:
+**Responsibilities:**
 - boost startup
 - operational management
 - hiring, employee adaption
@@ -66,11 +70,13 @@ Responsibilities:
 
 ### [Skolkovo StartUp Village](https://expo.startupvillage.ru/start/)
 
-Role: Project / Product Manager
+**Role:**<br>
+Project / Product Manager
 
-About: Skolkovo 3D Event
+**About:**<br>
+Skolkovo 3D Event
 
-Responsibilities:
+**Responsibilities:**
 - ux architecture
 - interface
 - documentation
@@ -78,11 +84,13 @@ Responsibilities:
 
 ### [Clicktex](http://clicktex.ru/)
 
-Role: Chief Operating Officer
+**Role:**<br>
+Chief Operating Officer
 
-About: widgets for mobile traffic
+**About:**
+widgets for mobile traffic
 
-Responsibilities:
+**Responsibilities:**
 - operational management
 - product owner
 - project manager
