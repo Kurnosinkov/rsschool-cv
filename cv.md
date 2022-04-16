@@ -88,7 +88,7 @@ Skolkovo 3D Event
 Chief Operating Officer
 
 **About:**<br>
-widgets for mobile traffic
+Widgets for mobile traffic
 
 **Responsibilities:**
 - operational management
