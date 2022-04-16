@@ -100,6 +100,12 @@ Saint Petersburg Conservatory
 
 MFA Flute Performance, Teacher
 
-## Certifications
+### Certifications
 
-- 
+- Time Management by City Business School
+- Strategic Thinking by Russian Leaders
+- Communications by Russian Leaders
+
+## English
+
+Upper Intermediate B2
