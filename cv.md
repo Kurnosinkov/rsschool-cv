@@ -100,8 +100,8 @@ widgets for mobile traffic
 
 ## Education
 
-**University:** Saint Petersburg Conservatory named after Rimsky-Korsakov
-**Degree:** Master of Fine Arts (MFA)
+**University:** Saint Petersburg Conservatory named after Rimsky-Korsakov<br>
+**Degree:** Master of Fine Arts (MFA)<br>
 **Major:** Flute Performance, Teacher
 
 ### Certifications
