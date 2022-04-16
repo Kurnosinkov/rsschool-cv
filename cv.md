@@ -14,7 +14,7 @@ My goal is developing companies which provide useful products to the World. I va
 
 My strengths are executive, purposefulness and passion for what I do.
 
-I held such positions as a Client Manager, Project Manager, Product Manager, Business Analyst and Chief Operating Officer. I worked in FinTech, EdTech, Digital companies and web agencies. So I have a good understanding of business workflows.
+I held such positions as a Client Manager, Project Manager, Product Manager, Business Analyst and Chief Operating Officer. I managed projects in FinTech, EdTech, Digital companies and web agencies. So I have a good understanding of business workflows.
 
 I love to play piano and chess
 
@@ -87,7 +87,7 @@ Skolkovo 3D Event
 **Role:**<br>
 Chief Operating Officer
 
-**About:**
+**About:**<br>
 widgets for mobile traffic
 
 **Responsibilities:**
@@ -100,9 +100,9 @@ widgets for mobile traffic
 
 ## Education
 
-Saint Petersburg Conservatory
-
-MFA Flute Performance, Teacher
+**University:** Saint Petersburg Conservatory named after Rimsky-Korsakov
+**Degree:** Master of Fine Arts (MFA)
+**Major:** Flute Performance, Teacher
 
 ### Certifications
 
