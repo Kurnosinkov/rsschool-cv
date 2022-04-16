@@ -1,1 +1,1 @@
-# rsschool-cv
+[Evgeny_Kurnosinkov_CV](https://kurnosinkov.github.io/rsschool-cv/cv)
