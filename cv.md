@@ -108,4 +108,4 @@ MFA Flute Performance, Teacher
 
 ## English
 
-Upper Intermediate B2
+Upper-Intermediate B2
