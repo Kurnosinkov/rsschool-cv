@@ -112,5 +112,5 @@ Widgets for mobile traffic
 
 ## Languages
 
-- **English:** Upper-Intermediate B2
+- **English:** Advanced C1
 - **Russian:** Native
