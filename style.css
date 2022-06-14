@@ -7,7 +7,8 @@ body {
     font-size: 18px;
     font-weight: 400;
     line-height: 1.5;
-    color: #4d2323;
+    background-color: #3d3c3c;
+    color: #e4e4e4;
     min-height: 100vh;
     margin: 0;
     padding: 0;
@@ -17,11 +18,11 @@ body {
   }
 
 footer {
+    background-color: #d4d4d4;
+    color: #0f0f0f;
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-around;
     align-items: center;
-    margin-right: 10%;
-    list-style: none;
 }
 
   .main-container {
@@ -35,7 +36,7 @@ footer {
     font-weight: 400;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: #829985;
+    color: #d0d0d0;
   }
 
   .section {
@@ -53,6 +54,10 @@ footer {
     margin: 0 auto;
   }
 
+  .nav {
+    margin-bottom: 0px;
+  }
+
   .nav-list {
     display: flex;
     justify-content: flex-end;
@@ -64,11 +69,11 @@ footer {
   .nav-link {
     padding: 0 20px;
     line-height: 50px;
-    transition: .3s;
+    transition: 0.3s;
   }
 
   .nav-item a {
-    color: #8d8d88;
+    color: #7a7a7a;
     text-decoration: none;  
     transition: color 0.5s;
   }
@@ -91,15 +96,26 @@ footer {
   }
 
   .avatar {
-      width: 50%;
+      width: 30%;
   }
 
   .section-item {
     position: relative;
     padding-left: 30px;
   }
-  
+
   .section-item::before {
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 0px;
+    width: 10px;
+    height: 10px; 
+    border: 1px solid #829985;
+    border-radius: 50%;
+  }
+
+  .section-item::marker {
     content: "";
     position: absolute;
     top: 8px;
@@ -112,4 +128,8 @@ footer {
 
   .footer-link {
     padding: 0 100px;
+  }
+
+  .link-reset {
+    color: inherit;
   }
